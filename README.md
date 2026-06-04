@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Atharva 👋
 
-<!--
-**atharva3116/atharva3116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at I.M.E.D Pune
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- React
+- JavaScript
+- Full Stack Development
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+- Git & GitHub
+
+## Connect With Me
+LinkedIn:
+www.linkedin.com/in/atharva-gaikwad-168b94301
